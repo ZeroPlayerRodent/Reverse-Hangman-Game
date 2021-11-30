@@ -1,5 +1,5 @@
 # Reverse-Hangman-Game
-A game I call "Reverse Hangman" programmed in Eek!
+A game I call "Reverse Hangman" programmed in Eek! [(Download Eek!)](https://github.com/ZeroPlayerRodent/Eek-Esolang)
 
 Instead of guessing letters to find a secret word like in normal hangman, this game has you guessing words to find a secret letter!
 
